@@ -263,9 +263,9 @@ nav .fa-solid {
 
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 740){
   #header {
-    height : 60%;
+    height : 50%;
   }
   .header-text{
     margin-top: 100%;
@@ -276,7 +276,7 @@ nav .fa-solid {
     font-size: 30px;
   }
 
-  nav .fa-solid {
+  nav .fa-solid{
     display: block ;
     font-size: 25px;
   }
