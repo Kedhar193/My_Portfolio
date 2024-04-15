@@ -263,17 +263,15 @@ nav .fa-solid {
 
 }
 
-@media only screen and (max-width: 740px){
-  #header {
-    height : 50%;
-  }
+@media only screen and (max-width: 768px) {
+
   .header-text{
-    margin-top: 100%;
-    font-size: 16px;
+    margin-top: 75%;
+    font-size: 25px;
   }
 
   .header-text h1{
-    font-size: 30px;
+    font-size: 35px;
   }
 
   nav .fa-solid{
